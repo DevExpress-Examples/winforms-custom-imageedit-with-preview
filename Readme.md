@@ -4,9 +4,9 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# WinForms ImageEdit - Preview a dropdown image in the edit box
+# WinForms ImageEdit - Preview a drop-down image in the edit box
 
-This example creates a custom image editor that previews a dropdown image in the edit box:
+This example creates a custom image editor that previews a drop-down image in the edit box:
 
 ![WinForms ImageEdit - Preview the image in the edit box](https://raw.githubusercontent.com/DevExpress-Examples/how-to-show-an-image-contained-in-the-imageedit-dropdown-and-also-in-its-edit-box-e3012/13.1.4%2B/media/winforms-imageedit-with-preview.png)
 
