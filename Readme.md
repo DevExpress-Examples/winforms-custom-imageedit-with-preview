@@ -9,7 +9,7 @@
 
 This example creates a custom image editor that previews a drop-down image in the edit box:
 
-![WinForms ImageEdit - Preview the image in the edit box](https://raw.githubusercontent.com/DevExpress-Examples/how-to-show-an-image-contained-in-the-imageedit-dropdown-and-also-in-its-edit-box-e3012/13.1.4%2B/media/winforms-imageedit-with-preview.png)
+![WinForms ImageEdit - Preview the image in the edit box](media/winforms-imageedit-with-preview.png)
 
 
 ## Files to Review
@@ -28,3 +28,4 @@ This example creates a custom image editor that previews a drop-down image in th
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
